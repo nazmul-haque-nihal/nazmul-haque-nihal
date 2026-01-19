@@ -5,7 +5,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="35">
   </h1>
   
-  <h3>👨‍🎓 Electrical & Electronic Engineering Student | 🧠 AI & Full-Stack Developer</h3>
+  <h3>👨‍🎓 Electrical & Electronics Engineering Student | 🧠 AI & Full-Stack Developer</h3>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+profile!;Full-Stack+Web+Developer;Machine+Learning+Enthusiast;Computer+Vision+Specialist;Exploring+Quantum-Inspired+Solutions!" alt="Typing SVG" />
   
