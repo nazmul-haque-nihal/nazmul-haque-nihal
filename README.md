@@ -11,7 +11,7 @@
   
   <div align="center">
     <a href="https://nazmulhaquenihal.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-nazmul--haque--nihal.github.io-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-https://nazmulhaquenihal.vercel.app/-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio">
     </a>
   </div>
 
